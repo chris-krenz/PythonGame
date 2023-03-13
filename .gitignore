@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Assets
+.png
+.jpg
+.xcf
+.mp3
+.wav
+
+# Other
+.txt

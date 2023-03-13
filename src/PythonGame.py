@@ -3,7 +3,7 @@
 """
 Simple 2D shooter game built using pygame as a personal project.
 Github: https://github.com/chris-krenz/PythonGame
-Demo:
+Demo: https://drive.google.com/file/d/1uyKUxuvyFT3xUBt_gmpRVIWr5IQEBx-L/view?usp=share_link
 
 Assets:
  - Images:
